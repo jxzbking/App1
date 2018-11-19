@@ -27,6 +27,7 @@ namespace App1
         {
             this.InitializeComponent();
             new MessageDialog("message").ShowAsync();
+            string a = "aaaaa";
             
         }
     }
