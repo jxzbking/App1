@@ -29,6 +29,7 @@ namespace App1
             new MessageDialog("message").ShowAsync();
             string a = "aaaaabbbbbbbbbbbb";
             string b = "aaaa";
+            string c = "cc";
         }
     }
 }
